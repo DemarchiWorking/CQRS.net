@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+5eO2AMuHDy5g0ZE7sjLnzdlG8TrjioThUpfyGNPOuWiynTOiUTc3Xs94IYDJHZhZlYx+NpTaosPWcs7C82FoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AntonioEduardoSilvei\\source\\repos\\IdentidadeCultural.Back.Api\\IdentidadeCultural.Compartilhado.Dominio\\IdentidadeCultural.Compartilhado.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AntonioEduardoSilvei\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
+    "C:\\Users\\AntonioEduardoSilvei\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

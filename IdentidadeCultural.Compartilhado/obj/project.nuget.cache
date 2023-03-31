@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZI7DJV21WlClUIIx81e0cHVdbjanKBHNEFP/cRNSUyzCaMp+/4/WoWedi/0NCBjU1ookbb0ILwzgaikvArRSIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AntonioEduardoSilvei\\source\\repos\\IdentidadeCultural.Back.Api\\IdentidadeCultural.Compartilhado\\IdentidadeCultural.Compartilhado.Aplicacao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AntonioEduardoSilvei\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\AntonioEduardoSilvei\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
+    "C:\\Users\\AntonioEduardoSilvei\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\AntonioEduardoSilvei\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\AntonioEduardoSilvei\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
