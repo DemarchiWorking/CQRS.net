@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "eTudGVKQjj69ujJc6ARIXFxONCpM5/qgkLVTc1E5YJH7dkE7seazaCH0J5oZcos/0zjYH7r/VI2pGwJc7h0Wnw==",
+  "dgSpecHash": "uHtyHwrnm8mjdO79QLiHSy7+NdUHNxsuGlQNVjkjQQnbB7pvr1Zp2QF+nCLKE6PlNiQ1vTb5O4RRCTLeFCgaKQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\AntonioEduardoSilvei\\source\\repos\\IdentidadeCultural.Back.Api\\IdentidadeCultural.Back.Api\\IdentidadeCultural.Api.csproj",
   "expectedPackageFiles": [
@@ -11,6 +11,8 @@
     "C:\\Users\\AntonioEduardoSilvei\\.nuget\\packages\\hangfire.core\\1.7.31\\hangfire.core.1.7.31.nupkg.sha512",
     "C:\\Users\\AntonioEduardoSilvei\\.nuget\\packages\\hangfire.sqlserver\\1.7.31\\hangfire.sqlserver.1.7.31.nupkg.sha512",
     "C:\\Users\\AntonioEduardoSilvei\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\AntonioEduardoSilvei\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\AntonioEduardoSilvei\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\AntonioEduardoSilvei\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\AntonioEduardoSilvei\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",
     "C:\\Users\\AntonioEduardoSilvei\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.2.0\\microsoft.aspnetcore.authorization.2.2.0.nupkg.sha512",

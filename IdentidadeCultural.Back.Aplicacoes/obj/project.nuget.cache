@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "ixgKF/hqAiXkcc7G42RvGTHoNEFONJjLgo1Mot52/RAI02P48kg0a9vMWGCHQKWBAQbbQBOYaXSmIjlO4jyjkQ==",
+  "dgSpecHash": "Fnx7v5NMqSBeJgiMeTiVvCRjCrF/XBOPXChHsHdij9c3Kq6daezDRj8+OjVduWri8YmVfZY/oxWpJGda/xZWcA==",
   "success": true,
   "projectFilePath": "C:\\Users\\AntonioEduardoSilvei\\source\\repos\\IdentidadeCultural.Back.Api\\IdentidadeCultural.Back.Aplicacoes\\IdentidadeCultural.Aplicacao.Servico.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AntonioEduardoSilvei\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\AntonioEduardoSilvei\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
+    "C:\\Users\\AntonioEduardoSilvei\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\AntonioEduardoSilvei\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\AntonioEduardoSilvei\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\AntonioEduardoSilvei\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
     "C:\\Users\\AntonioEduardoSilvei\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\AntonioEduardoSilvei\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512"
   ],

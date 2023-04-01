@@ -1,0 +1,15 @@
+C:\Users\AntonioEduardoSilvei\source\repos\IdentidadeCultural.Back.Api\IdentidadeCultural.Back.Dominio\bin\Debug\net6.0\IdentidadeCultural.DominioServicos.deps.json
+C:\Users\AntonioEduardoSilvei\source\repos\IdentidadeCultural.Back.Api\IdentidadeCultural.Back.Dominio\bin\Debug\net6.0\IdentidadeCultural.DominioServicos.dll
+C:\Users\AntonioEduardoSilvei\source\repos\IdentidadeCultural.Back.Api\IdentidadeCultural.Back.Dominio\bin\Debug\net6.0\IdentidadeCultural.DominioServicos.pdb
+C:\Users\AntonioEduardoSilvei\source\repos\IdentidadeCultural.Back.Api\IdentidadeCultural.Back.Dominio\bin\Debug\net6.0\IdentidadeCultural.Compartilhado.Dominio.dll
+C:\Users\AntonioEduardoSilvei\source\repos\IdentidadeCultural.Back.Api\IdentidadeCultural.Back.Dominio\bin\Debug\net6.0\IdentidadeCultural.Compartilhado.Dominio.pdb
+C:\Users\AntonioEduardoSilvei\source\repos\IdentidadeCultural.Back.Api\IdentidadeCultural.Back.Dominio\obj\Debug\net6.0\IdentidadeCultural.DominioServicos.csproj.AssemblyReference.cache
+C:\Users\AntonioEduardoSilvei\source\repos\IdentidadeCultural.Back.Api\IdentidadeCultural.Back.Dominio\obj\Debug\net6.0\IdentidadeCultural.DominioServicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AntonioEduardoSilvei\source\repos\IdentidadeCultural.Back.Api\IdentidadeCultural.Back.Dominio\obj\Debug\net6.0\IdentidadeCultural.DominioServicos.AssemblyInfoInputs.cache
+C:\Users\AntonioEduardoSilvei\source\repos\IdentidadeCultural.Back.Api\IdentidadeCultural.Back.Dominio\obj\Debug\net6.0\IdentidadeCultural.DominioServicos.AssemblyInfo.cs
+C:\Users\AntonioEduardoSilvei\source\repos\IdentidadeCultural.Back.Api\IdentidadeCultural.Back.Dominio\obj\Debug\net6.0\IdentidadeCultural.DominioServicos.csproj.CoreCompileInputs.cache
+C:\Users\AntonioEduardoSilvei\source\repos\IdentidadeCultural.Back.Api\IdentidadeCultural.Back.Dominio\obj\Debug\net6.0\IdentidadeCultural.DominioServicos.csproj.CopyComplete
+C:\Users\AntonioEduardoSilvei\source\repos\IdentidadeCultural.Back.Api\IdentidadeCultural.Back.Dominio\obj\Debug\net6.0\IdentidadeCultural.DominioServicos.dll
+C:\Users\AntonioEduardoSilvei\source\repos\IdentidadeCultural.Back.Api\IdentidadeCultural.Back.Dominio\obj\Debug\net6.0\refint\IdentidadeCultural.DominioServicos.dll
+C:\Users\AntonioEduardoSilvei\source\repos\IdentidadeCultural.Back.Api\IdentidadeCultural.Back.Dominio\obj\Debug\net6.0\IdentidadeCultural.DominioServicos.pdb
+C:\Users\AntonioEduardoSilvei\source\repos\IdentidadeCultural.Back.Api\IdentidadeCultural.Back.Dominio\obj\Debug\net6.0\ref\IdentidadeCultural.DominioServicos.dll

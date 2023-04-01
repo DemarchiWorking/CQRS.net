@@ -1,4 +1,4 @@
-﻿using IdentidadeCultural.DominioServicos.Enum;
+﻿using IdentidadeCultural.Dominio.Servicos.Enum;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;

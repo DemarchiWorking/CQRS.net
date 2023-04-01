@@ -1,4 +1,9 @@
 ﻿using IdentidadeCultural.Aplicacoes.Dto;
+
+using IdentidadeCultural.Aplicacoes.Dto;
+using IdentidadeCultural.Dominio.Servicos.ObjetosValor;
+using IdentidadeCultural.Dominio.Servicos.Resposta;
+using MediatR;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,7 +12,7 @@ using System.Threading.Tasks;
 
 namespace IdentidadeCultural.Aplicacoes.Queries.Servicos.BuscarServico
 {
-		public class BuscarServicosQuery
+		public class BuscarServicosQuery : IRequest<ListaPaginada<ServicoTrabalho>>
 		{
 			public BuscarServicosQuery(BuscarServicoFiltroDto buscarServicoFiltroDto)
 			{

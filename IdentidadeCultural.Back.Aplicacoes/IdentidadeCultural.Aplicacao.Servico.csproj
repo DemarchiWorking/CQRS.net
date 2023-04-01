@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
@@ -7,7 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Commands\" />
     <Folder Include="Extensions\" />
     <Folder Include="Interfaces\" />
     <Folder Include="ViewModel\" />
@@ -15,7 +14,13 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\IdentidadeCultural.Back.Dominio\IdentidadeCultural.DominioServicos.csproj" />
+    <PackageReference Include="MediatR" Version="9.0.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="9.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\IdentidadeCultural.Compartilhado\IdentidadeCultural.Compartilhado.Aplicacao.csproj" />
+    <ProjectReference Include="..\IdentidadeCultural.Dominio.Servico\IdentidadeCultural.Dominio.Servico.csproj" />
   </ItemGroup>
 
 </Project>

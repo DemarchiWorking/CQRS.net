@@ -1,0 +1,12 @@
+C:\Users\AntonioEduardoSilvei\source\repos\IdentidadeCultural.Back.Api\IdentidadeCultural.Back.Infra\bin\Debug\net6.0\IdentidadeCultural.Infra.Servicos.deps.json
+C:\Users\AntonioEduardoSilvei\source\repos\IdentidadeCultural.Back.Api\IdentidadeCultural.Back.Infra\bin\Debug\net6.0\IdentidadeCultural.Infra.Servicos.dll
+C:\Users\AntonioEduardoSilvei\source\repos\IdentidadeCultural.Back.Api\IdentidadeCultural.Back.Infra\bin\Debug\net6.0\IdentidadeCultural.Infra.Servicos.pdb
+C:\Users\AntonioEduardoSilvei\source\repos\IdentidadeCultural.Back.Api\IdentidadeCultural.Back.Infra\obj\Debug\net6.0\IdentidadeCultural.Infra.Servicos.csproj.AssemblyReference.cache
+C:\Users\AntonioEduardoSilvei\source\repos\IdentidadeCultural.Back.Api\IdentidadeCultural.Back.Infra\obj\Debug\net6.0\IdentidadeCultural.Infra.Servicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AntonioEduardoSilvei\source\repos\IdentidadeCultural.Back.Api\IdentidadeCultural.Back.Infra\obj\Debug\net6.0\IdentidadeCultural.Infra.Servicos.AssemblyInfoInputs.cache
+C:\Users\AntonioEduardoSilvei\source\repos\IdentidadeCultural.Back.Api\IdentidadeCultural.Back.Infra\obj\Debug\net6.0\IdentidadeCultural.Infra.Servicos.AssemblyInfo.cs
+C:\Users\AntonioEduardoSilvei\source\repos\IdentidadeCultural.Back.Api\IdentidadeCultural.Back.Infra\obj\Debug\net6.0\IdentidadeCultural.Infra.Servicos.csproj.CoreCompileInputs.cache
+C:\Users\AntonioEduardoSilvei\source\repos\IdentidadeCultural.Back.Api\IdentidadeCultural.Back.Infra\obj\Debug\net6.0\IdentidadeCultural.Infra.Servicos.dll
+C:\Users\AntonioEduardoSilvei\source\repos\IdentidadeCultural.Back.Api\IdentidadeCultural.Back.Infra\obj\Debug\net6.0\refint\IdentidadeCultural.Infra.Servicos.dll
+C:\Users\AntonioEduardoSilvei\source\repos\IdentidadeCultural.Back.Api\IdentidadeCultural.Back.Infra\obj\Debug\net6.0\IdentidadeCultural.Infra.Servicos.pdb
+C:\Users\AntonioEduardoSilvei\source\repos\IdentidadeCultural.Back.Api\IdentidadeCultural.Back.Infra\obj\Debug\net6.0\ref\IdentidadeCultural.Infra.Servicos.dll

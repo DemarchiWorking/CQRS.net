@@ -1,0 +1,15 @@
+C:\Users\AntonioEduardoSilvei\source\repos\IdentidadeCultural.Back.Api\IdentidadeCultural.Compartilhado\bin\Debug\net6.0\IdentidadeCultural.Compartilhado.Aplicacao.deps.json
+C:\Users\AntonioEduardoSilvei\source\repos\IdentidadeCultural.Back.Api\IdentidadeCultural.Compartilhado\bin\Debug\net6.0\IdentidadeCultural.Compartilhado.Aplicacao.dll
+C:\Users\AntonioEduardoSilvei\source\repos\IdentidadeCultural.Back.Api\IdentidadeCultural.Compartilhado\bin\Debug\net6.0\IdentidadeCultural.Compartilhado.Aplicacao.pdb
+C:\Users\AntonioEduardoSilvei\source\repos\IdentidadeCultural.Back.Api\IdentidadeCultural.Compartilhado\bin\Debug\net6.0\IdentidadeCultural.Compartilhado.Dominio.dll
+C:\Users\AntonioEduardoSilvei\source\repos\IdentidadeCultural.Back.Api\IdentidadeCultural.Compartilhado\bin\Debug\net6.0\IdentidadeCultural.Compartilhado.Dominio.pdb
+C:\Users\AntonioEduardoSilvei\source\repos\IdentidadeCultural.Back.Api\IdentidadeCultural.Compartilhado\obj\Debug\net6.0\IdentidadeCultural.Compartilhado.Aplicacao.csproj.AssemblyReference.cache
+C:\Users\AntonioEduardoSilvei\source\repos\IdentidadeCultural.Back.Api\IdentidadeCultural.Compartilhado\obj\Debug\net6.0\IdentidadeCultural.Compartilhado.Aplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AntonioEduardoSilvei\source\repos\IdentidadeCultural.Back.Api\IdentidadeCultural.Compartilhado\obj\Debug\net6.0\IdentidadeCultural.Compartilhado.Aplicacao.AssemblyInfoInputs.cache
+C:\Users\AntonioEduardoSilvei\source\repos\IdentidadeCultural.Back.Api\IdentidadeCultural.Compartilhado\obj\Debug\net6.0\IdentidadeCultural.Compartilhado.Aplicacao.AssemblyInfo.cs
+C:\Users\AntonioEduardoSilvei\source\repos\IdentidadeCultural.Back.Api\IdentidadeCultural.Compartilhado\obj\Debug\net6.0\IdentidadeCultural.Compartilhado.Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\AntonioEduardoSilvei\source\repos\IdentidadeCultural.Back.Api\IdentidadeCultural.Compartilhado\obj\Debug\net6.0\IdentidadeCultural.Compartilhado.Aplicacao.csproj.CopyComplete
+C:\Users\AntonioEduardoSilvei\source\repos\IdentidadeCultural.Back.Api\IdentidadeCultural.Compartilhado\obj\Debug\net6.0\IdentidadeCultural.Compartilhado.Aplicacao.dll
+C:\Users\AntonioEduardoSilvei\source\repos\IdentidadeCultural.Back.Api\IdentidadeCultural.Compartilhado\obj\Debug\net6.0\refint\IdentidadeCultural.Compartilhado.Aplicacao.dll
+C:\Users\AntonioEduardoSilvei\source\repos\IdentidadeCultural.Back.Api\IdentidadeCultural.Compartilhado\obj\Debug\net6.0\IdentidadeCultural.Compartilhado.Aplicacao.pdb
+C:\Users\AntonioEduardoSilvei\source\repos\IdentidadeCultural.Back.Api\IdentidadeCultural.Compartilhado\obj\Debug\net6.0\ref\IdentidadeCultural.Compartilhado.Aplicacao.dll

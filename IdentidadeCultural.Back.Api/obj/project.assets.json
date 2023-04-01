@@ -121,6 +121,28 @@
           "lib/netstandard2.0/Humanizer.dll": {}
         }
       },
+      "MediatR/9.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/MediatR.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/MediatR.dll": {}
+        }
+      },
+      "MediatR.Extensions.Microsoft.DependencyInjection/9.0.0": {
+        "type": "package",
+        "dependencies": {
+          "MediatR": "9.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "2.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/MediatR.Extensions.Microsoft.DependencyInjection.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/MediatR.Extensions.Microsoft.DependencyInjection.dll": {}
+        }
+      },
       "Microsoft.AspNetCore.Authentication.Abstractions/2.2.0": {
         "type": "package",
         "dependencies": {
@@ -1737,7 +1759,9 @@
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "IdentidadeCultural.Compartilhado.Aplicacao": "1.0.0",
-          "IdentidadeCultural.DominioServicos": "1.0.0"
+          "IdentidadeCultural.Dominio.Servico": "1.0.0",
+          "MediatR": "9.0.0",
+          "MediatR.Extensions.Microsoft.DependencyInjection": "9.0.0"
         },
         "compile": {
           "bin/placeholder/IdentidadeCultural.Aplicacao.Servico.dll": {}
@@ -1776,18 +1800,17 @@
           "bin/placeholder/IdentidadeCultural.Compartilhado.Dominio.dll": {}
         }
       },
-      "IdentidadeCultural.DominioServicos/1.0.0": {
+      "IdentidadeCultural.Dominio.Servico/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "Flunt": "2.0.5",
           "IdentidadeCultural.Compartilhado.Dominio": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/IdentidadeCultural.DominioServicos.dll": {}
+          "bin/placeholder/IdentidadeCultural.Dominio.Servico.dll": {}
         },
         "runtime": {
-          "bin/placeholder/IdentidadeCultural.DominioServicos.dll": {}
+          "bin/placeholder/IdentidadeCultural.Dominio.Servico.dll": {}
         }
       },
       "IdentidadeCultural.Infra.Servicos/1.0.0": {
@@ -1994,6 +2017,37 @@
         "lib/netstandard2.0/Humanizer.dll",
         "lib/netstandard2.0/Humanizer.xml",
         "logo.png"
+      ]
+    },
+    "MediatR/9.0.0": {
+      "sha512": "8b3UYNxegHVYcJMG2zH8wn+YqxLvXG+eMfj0cMCq/jTW72p6O3PCKMkrIv0mqyxdW7bA4gblsocw7n+/9Akg5g==",
+      "type": "package",
+      "path": "mediatr/9.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "gradient_128x128.png",
+        "lib/net461/MediatR.dll",
+        "lib/net461/MediatR.xml",
+        "lib/netstandard2.0/MediatR.dll",
+        "lib/netstandard2.0/MediatR.xml",
+        "lib/netstandard2.1/MediatR.dll",
+        "lib/netstandard2.1/MediatR.xml",
+        "mediatr.9.0.0.nupkg.sha512",
+        "mediatr.nuspec"
+      ]
+    },
+    "MediatR.Extensions.Microsoft.DependencyInjection/9.0.0": {
+      "sha512": "msreY4ogiPdIRWiCQVHQDytIQpsZCLWsixWPZ+Xs86KZrvtuiV8BDHbIT0kBmogynVYWNpspb3caw+86YU8L6w==",
+      "type": "package",
+      "path": "mediatr.extensions.microsoft.dependencyinjection/9.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "gradient_128x128.png",
+        "lib/netstandard2.0/MediatR.Extensions.Microsoft.DependencyInjection.dll",
+        "mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+        "mediatr.extensions.microsoft.dependencyinjection.nuspec"
       ]
     },
     "Microsoft.AspNetCore.Authentication.Abstractions/2.2.0": {
@@ -5657,10 +5711,10 @@
       "path": "../IdentidadeCultural.Compartilhado.Dominio/IdentidadeCultural.Compartilhado.Dominio.csproj",
       "msbuildProject": "../IdentidadeCultural.Compartilhado.Dominio/IdentidadeCultural.Compartilhado.Dominio.csproj"
     },
-    "IdentidadeCultural.DominioServicos/1.0.0": {
+    "IdentidadeCultural.Dominio.Servico/1.0.0": {
       "type": "project",
-      "path": "../IdentidadeCultural.Back.Dominio/IdentidadeCultural.DominioServicos.csproj",
-      "msbuildProject": "../IdentidadeCultural.Back.Dominio/IdentidadeCultural.DominioServicos.csproj"
+      "path": "../IdentidadeCultural.Dominio.Servico/IdentidadeCultural.Dominio.Servico.csproj",
+      "msbuildProject": "../IdentidadeCultural.Dominio.Servico/IdentidadeCultural.Dominio.Servico.csproj"
     },
     "IdentidadeCultural.Infra.Servicos/1.0.0": {
       "type": "project",
@@ -5674,8 +5728,8 @@
       "Hangfire >= 1.7.31",
       "IdentidadeCultural.Aplicacao.Servico >= 1.0.0",
       "IdentidadeCultural.Compartilhado.Aplicacao >= 1.0.0",
-      "IdentidadeCultural.DominioServicos >= 1.0.0",
       "IdentidadeCultural.Infra.Servicos >= 1.0.0",
+      "MediatR.Extensions.Microsoft.DependencyInjection >= 9.0.0",
       "Microsoft.AspNetCore.Cors >= 2.2.0",
       "Microsoft.AspNetCore.Mvc.Core >= 2.2.2",
       "Microsoft.AspNetCore.Mvc.NewtonsoftJson >= 6.0.10",
@@ -5715,9 +5769,6 @@
             "C:\\Users\\AntonioEduardoSilvei\\source\\repos\\IdentidadeCultural.Back.Api\\IdentidadeCultural.Back.Aplicacoes\\IdentidadeCultural.Aplicacao.Servico.csproj": {
               "projectPath": "C:\\Users\\AntonioEduardoSilvei\\source\\repos\\IdentidadeCultural.Back.Api\\IdentidadeCultural.Back.Aplicacoes\\IdentidadeCultural.Aplicacao.Servico.csproj"
             },
-            "C:\\Users\\AntonioEduardoSilvei\\source\\repos\\IdentidadeCultural.Back.Api\\IdentidadeCultural.Back.Dominio\\IdentidadeCultural.DominioServicos.csproj": {
-              "projectPath": "C:\\Users\\AntonioEduardoSilvei\\source\\repos\\IdentidadeCultural.Back.Api\\IdentidadeCultural.Back.Dominio\\IdentidadeCultural.DominioServicos.csproj"
-            },
             "C:\\Users\\AntonioEduardoSilvei\\source\\repos\\IdentidadeCultural.Back.Api\\IdentidadeCultural.Back.Infra\\IdentidadeCultural.Infra.Servicos.csproj": {
               "projectPath": "C:\\Users\\AntonioEduardoSilvei\\source\\repos\\IdentidadeCultural.Back.Api\\IdentidadeCultural.Back.Infra\\IdentidadeCultural.Infra.Servicos.csproj"
             },
@@ -5744,6 +5795,10 @@
           "Hangfire": {
             "target": "Package",
             "version": "[1.7.31, )"
+          },
+          "MediatR.Extensions.Microsoft.DependencyInjection": {
+            "target": "Package",
+            "version": "[9.0.0, )"
           },
           "Microsoft.AspNetCore.Cors": {
             "target": "Package",

@@ -98,9 +98,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AntonioEduardoSilvei\\source\\repos\\IdentidadeCultural.Back.Api\\IdentidadeCultural.Back.Dominio\\IdentidadeCultural.DominioServicos.csproj",
-      "projectName": "IdentidadeCultural.DominioServicos",
-      "projectPath": "C:\\Users\\AntonioEduardoSilvei\\source\\repos\\IdentidadeCultural.Back.Api\\IdentidadeCultural.Back.Dominio\\IdentidadeCultural.DominioServicos.csproj",
+      "projectUniqueName": "C:\\Users\\AntonioEduardoSilvei\\source\\repos\\IdentidadeCultural.Back.Api\\IdentidadeCultural.Back.Dominio\\IdentidadeCultural.Dominio.sServicos.csproj",
+      "projectName": "IdentidadeCultural.Dominio.sServicos",
+      "projectPath": "C:\\Users\\AntonioEduardoSilvei\\source\\repos\\IdentidadeCultural.Back.Api\\IdentidadeCultural.Back.Dominio\\IdentidadeCultural.Dominio.sServicos.csproj",
       "packagesPath": "C:\\Users\\AntonioEduardoSilvei\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\AntonioEduardoSilvei\\source\\repos\\IdentidadeCultural.Back.Api\\IdentidadeCultural.Back.Dominio\\obj\\",
       "projectStyle": "PackageReference",
